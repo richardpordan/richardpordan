@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @richardpordan
-- 👀 I’m interested in Open source, Python, Spark, R, SQL, NLP, D3.js, Web Front-End Development
+- 👀 I’m interested in Open source, Python, Spark, R, SQL, D3.js, Web Development
 - 🌱 I’m currently learning D3.js
 - 💞️ I’m looking to collaborate on interesting challenges!
 - 📫 Feel free to message me
