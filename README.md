@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @richardpordan
-- 👀 I’m interested in Open source, Python, Spark, R, SQL, D3.js, Web Development
-- 🌱 I’m currently learning D3.js
-- 💞️ I’m looking to collaborate on interesting challenges!
+- 📚 I work in and study Data Science
+- 👀 I’m interested in open source stuff, Maths, Modelling, Statistical Analysis, Python, PySpark, R, SQL, D3.js, Web Development
+- 🌱 I’m currently learning D3.js at University
 - 📫 Feel free to message me
