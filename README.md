@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @richardpordan
 - 📚 I'm an undergrad working in and studying Data Science
 - 👀 I’m interested in open source stuff, Continuous Integration and Deployment, Maths, Modelling, Statistical Analysis, ML, Web Development
-- 🛠️ Preferred tools: Python, Jenkins
+- 🛠️ Preferred tools: Python, Jupyter-Lab
 - 🌱 I’m currently learning about ML and Neural Networks
