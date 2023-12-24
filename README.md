@@ -29,7 +29,7 @@
 
 <br>
 
-<div style="display: flex">
+<div style="display: flex; justify-content: space-between;">
 
   <img src="pc.svg" height=100 style="display: block; margin-left: auto; margin-right: auto;">
 
