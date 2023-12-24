@@ -6,11 +6,40 @@
 	<br>
 </div>
 
-- 📚 I'm an undergrad working in and studying Data Science
-- 👀 Talk to me about FOSS, Continuous Integration and Deployment, Automation, Raspberry Pi, Maths, Modelling, Statistical Analysis, Machine Learning, Web Development, CSS, JavaScript, D3.js
-- 🛠️ Preferred tools: Python, Spyder, Jupyter-Lab, VSCodium
-- 🌱 I’m currently learning about ML and Neural Networks
+<br>
+
+<table style="margin-left:auto; margin-right:auto; width: 90%;">
+  <tr>
+    <td>📚 About</td>
+    <td>I'm an undergrad working in and studying Data Science</td>
+  </tr>
+  <tr>
+    <td>👀 Talk to me about</td>
+    <td>FOSS, Continuous Integration and Deployment, Automation, Raspberry Pi, Maths, Modelling, Statistical Analysis, Machine Learning, Web Development, CSS, JavaScript, D3.js</td>
+  </tr>
+  <tr>
+    <td>🛠️ Preferred tools</td>
+    <td>Python, Spyder, Jupyter-Lab, VSCodium</td>
+  </tr>
+  <tr>
+    <td>🌱 I’m currently learning or reading about</td>
+    <td>Machine Learning, Neural Networks, Complex Systems</td>
+  </tr>
+</table>
 
 <br>
 
-*Credit on the banner: https://github.com/sindresorhus/css-in-readme-like-wat*
+<div style="display: flex">
+
+  <img src="ds-logo.svg" height=200 style="display: block; margin-left: auto; margin-right: auto;">
+
+  <img src="ds-logo.svg" height=200 style="display: block; margin-left: auto; margin-right: auto;">
+
+  <img src="ds-logo.svg" height=200 style="display: block; margin-left: auto; margin-right: auto;">
+
+</div>
+
+<br><br>
+<br><br>
+
+*Animated banner based on: https://github.com/sindresorhus/css-in-readme-like-wat*
