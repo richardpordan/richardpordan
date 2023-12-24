@@ -31,15 +31,12 @@
 
 <div style="display: flex">
 
-  <img src="ds-logo.svg" height=200 style="display: block; margin-left: auto; margin-right: auto;">
+  <img src="pc.svg" height=100 style="display: block; margin-left: auto; margin-right: auto;">
 
-  <img src="ds-logo.svg" height=200 style="display: block; margin-left: auto; margin-right: auto;">
-
-  <img src="ds-logo.svg" height=200 style="display: block; margin-left: auto; margin-right: auto;">
+  <img src="ds-logo.svg" height=100 style="display: block; margin-left: auto; margin-right: auto;">
 
 </div>
 
-<br><br>
 <br><br>
 
 *Animated banner based on: https://github.com/sindresorhus/css-in-readme-like-wat*
