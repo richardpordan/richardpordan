@@ -10,12 +10,12 @@
 
 <table style="margin-left:auto; margin-right:auto; width: 90%;">
   <tr>
-    <td>📚 About</td>
+    <td>👨‍💻 Me</td>
     <td>I'm an undergrad working in and studying Data Science</td>
   </tr>
   <tr>
     <td>👀 Talk to me about</td>
-    <td>FOSS, Continuous Integration and Deployment, Automation, Raspberry Pi, Maths, Modelling, Statistical Analysis, Machine Learning, Web Development, CSS, JavaScript, D3.js</td>
+    <td>FOSS, Continuous Integration and Deployment, Automation, Raspberry Pi, Maths, Machine Learning, Web Development, CSS, JavaScript, D3.js, Science, Philosophy, Gaming</td>
   </tr>
   <tr>
     <td>🛠️ Preferred tools</td>
@@ -23,13 +23,13 @@
   </tr>
   <tr>
     <td>🌱 I’m currently learning or reading about</td>
-    <td>Machine Learning, Neural Networks, Complex Systems</td>
+    <td>Machine Learning, Neural Networks, Mathematical Modelling, Complex Systems</td>
   </tr>
 </table>
 
 <br>
 
-<div style="display: flex; justify-content: space-between; width: 100%;">
+<div align="center" style="display: flex; justify-content: space-between; width: 100%;">
 
   <img src="pc.svg" height=100 style="display: block; margin-left: auto; margin-right: auto;">
 
