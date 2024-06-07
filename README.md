@@ -11,19 +11,19 @@
 <table style="margin-left:auto; margin-right:auto; width: 90%;">
   <tr>
     <td>👨‍💻 Me</td>
-    <td>I'm an undergrad working in and studying Data Science</td>
+    <td>I'm an open-source enthousiast and an undergrad working in and studying Data Science</td>
   </tr>
   <tr>
     <td>👀 Talk to me about</td>
-    <td>FOSS, Continuous Integration and Deployment, Automation, Raspberry Pi, Maths, Machine Learning, Web Development, CSS, JavaScript, D3.js, Science, Philosophy, Gaming</td>
+    <td>FOSS, Automation, Raspberry Pi, Arduino, Maths, Machine Learning, JavaScript, D3.js, Science, Philosophy, Gaming</td>
   </tr>
   <tr>
     <td>🛠️ Preferred tools</td>
-    <td>Python, Spyder, Jupyter-Lab, VSCodium</td>
+    <td>GNU Linux, VSCodium</td>
   </tr>
   <tr>
     <td>🌱 I’m currently learning or reading about</td>
-    <td>Machine Learning, Neural Networks, Mathematical Modelling, Complex Systems</td>
+    <td>Machine Learning, Neural Networks, C </td>
   </tr>
 </table>
 
